@@ -3,7 +3,7 @@ I'm Sid, a blogger and frontend dev
 
 * Look at my [website](https://siddharth.one)
 * Follow me on [twitter](https://twitter.com/sidchaudhary04)
-* Follow me on [instagram(https://instagram.com/sidchaudhary04)
+* Follow me on [instagram](https://instagram.com/sidchaudhary04)
 
 Contact me by email if you need your website built.
 
