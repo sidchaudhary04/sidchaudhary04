@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Sid, a blogger and frontend dev
+
+Look at my [website](https://siddharth.one)
+Follow me on [twitter](https://twitter.com/sidchaudhary04)
+Follow me on [instagram(https://instagram.com/sidchaudhary04)
+
+Contact me by email if you need your website built.
 
 <!--
 **sidchaudhary04/sidchaudhary04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
